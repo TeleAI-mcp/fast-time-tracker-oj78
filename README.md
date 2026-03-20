@@ -1,2 +1,3 @@
-# fast-time-tracker-oj78
+# Fast Time Tracker Oj78
+
 A time tracking and billing tool for modern development workflows.
